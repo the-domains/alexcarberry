@@ -1,4 +1,4 @@
-name: AlexCarberry
+name: Alex Carberry
 favicon: null
 layout_spectrum: 0.33135
 typography_spectrum: 0.39433
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4b1610'
-    - '#88d1d7'
-    - '#00acb6'
-    - '#f3746d'
-    - '#5c6864'
-  brandStrength: 0.6875
+    - '#94ba65'
+    - '#353432'
+    - '#4e4d4a'
+    - '#2b4e72'
+    - '#2790b0'
+  brandStrength: 0.3125
   lightness: 0.25
   saturation: 0.375
   rhythmicContrast: 1
