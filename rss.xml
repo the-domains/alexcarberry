@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AlexCarberry]]></title>
-        <description><![CDATA[AlexCarberry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Alex Carberry]]></title>
+        <description><![CDATA[Alex Carberry]]></description>
+        <link>https://thegrid.ai/alexcarberry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:18:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 04:10:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexcarberry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do I do this again...?]]></title>
+            <description><![CDATA[<p>Well this is new. My first real web site. What do you guys want to talk about?</p>]]></description>
+            <link>https://thegrid.ai/alexcarberry/how-do-i-do-this-again/index.html</link>
+            <guid isPermaLink="false">ef6b61dc-fb86-4d3d-8303-3f3dd8afdb23</guid>
+            <pubDate>Thu, 07 Jul 2016 04:10:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d836320-14f2-4181-8405-c3c079ffa6b1.jpg">]]></description>
-            <link>undefined7a782fdc-ddff-43cf-971b-2d302f04a831/index.html</link>
+            <link>https://thegrid.ai/alexcarberry/7a782fdc-ddff-43cf-971b-2d302f04a831/index.html</link>
             <guid isPermaLink="false">7a782fdc-ddff-43cf-971b-2d302f04a831</guid>
             <pubDate>Thu, 07 Jul 2016 03:18:55 GMT</pubDate>
         </item>
