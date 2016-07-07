@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Well this is new. My first real web site. What do you guys want to talk about?
-datePublished: '2016-07-07T04:13:03.048Z'
-dateModified: '2016-07-07T04:12:37.227Z'
+datePublished: '2016-07-07T04:22:37.191Z'
+dateModified: '2016-07-07T04:13:09.012Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-07-how-do-i-do-this-again.md
