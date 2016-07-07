@@ -1,6 +1,6 @@
 name: AlexCarberry
 favicon: null
-layout_spectrum: 0.13826
+layout_spectrum: 0.33135
 typography_spectrum: 0.39433
 title: Alex Carberry
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#050608'
-    - '#297048'
-    - '#55ab88'
-    - '#f37a7f'
-    - '#793a4b'
-  brandStrength: 0.1875
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+    - '#4b1610'
+    - '#88d1d7'
+    - '#00acb6'
+    - '#f3746d'
+    - '#5c6864'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
