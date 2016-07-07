@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Well this is new. My first real web site. What do you guys want to talk about?
-datePublished: '2016-07-07T04:27:54.205Z'
-dateModified: '2016-07-07T04:26:30.368Z'
+datePublished: '2016-07-07T04:29:21.811Z'
+dateModified: '2016-07-07T04:28:55.355Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-07-how-do-i-do-this-again.md
@@ -18,6 +18,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f0733c-f68a-4a9c-8219-7d20b98ac045.jpg)
+
+Well this is new. My first real web site. What do you guys want to talk about?
 
 Well this is new. My first real web site. What do you guys want to talk about?
 
