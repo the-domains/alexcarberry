@@ -1,7 +1,7 @@
 name: AlexCarberry
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4312813142314553
+layout_spectrum: 0.13826
+typography_spectrum: 0.39433
 title: Alex Carberry
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#f37a7f'
     - '#793a4b'
   brandStrength: 0.1875
-  lightness: 0.17562817805446684
-  saturation: 0.4375
+  lightness: 0.3125
+  saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
