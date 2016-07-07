@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Well this is new. My first real web site. What do you guys want to talk about?
-datePublished: '2016-07-07T04:29:21.811Z'
-dateModified: '2016-07-07T04:28:55.355Z'
+datePublished: '2016-07-07T04:29:46.502Z'
+dateModified: '2016-07-07T04:29:28.733Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-07-how-do-i-do-this-again.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: how-do-i-do-this-again/index.html
 _type: Article
 
